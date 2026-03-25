@@ -5,5 +5,6 @@ import FoodList from "./FoodList";
 import Extras from "./Extras";
 import OrderSummary from "./OrderSummary";
 import Footer from "./Footer";
+import RiceFoods from "./Fooder";
 
 export {Header, Home, Hero,FoodList, Extras, OrderSummary, Footer}
